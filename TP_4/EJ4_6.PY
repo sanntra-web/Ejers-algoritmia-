@@ -4,4 +4,3 @@ algoritmo para que el usuario pueda decidir la tabla de multiplicar a mostrar?
 numero = int(input ("ingrese numero para mostrar la tabla: "))
 for i in range(1, 13):
     print (numero * i)
-    print (i)
